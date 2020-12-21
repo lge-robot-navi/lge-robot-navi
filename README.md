@@ -1,7 +1,7 @@
 ## 실외 무인 경비 로봇을 위한 멀티모달 지능형 정보분석 기술 개발
 
-{% include youtube.html id="QxpQtVxcH3Q" %}  
-
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/QxpQtVxcH3Q" frameborder="0" allowfullscreen="" onclick="ga('send', 'event', 'post', 'click', 'youtubePlayer');"></iframe></div>
 
 <!--
 **lge-robot-navi/lge-robot-navi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
