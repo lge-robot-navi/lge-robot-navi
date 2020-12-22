@@ -1,5 +1,5 @@
 ## 실외 무인 경비 로봇을 위한 멀티모달 지능형 정보분석 기술 개발
-![참여기관](./organization.jpg){:height="75%" width="75%"}
+![참여기관](./organization.jpg =660x74)
 ![4차년도 동영상](./4th_fullsystem.gif)](https://www.youtube.com/watch?v=QxpQtVxcH3Q)
 
 <!--
