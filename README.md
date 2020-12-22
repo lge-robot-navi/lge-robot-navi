@@ -2,7 +2,7 @@
 
 <img src="./organization.jpg" height="74" width="660" align="center">
 
-![4차년도 동영상](./4th_fullsystem.gif)](https://www.youtube.com/watch?v=QxpQtVxcH3Q)
+[![4차년도 동영상](./4th_fullsystem.gif)](https://www.youtube.com/watch?v=QxpQtVxcH3Q)
 
 <!--
 **lge-robot-navi/lge-robot-navi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
