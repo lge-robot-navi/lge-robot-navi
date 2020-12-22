@@ -2,10 +2,10 @@
 <p align="center">
     <img src="./organization.jpg" height="63" width="570">
 </p>
+<!--
 
 [![4차년도 동영상](./4th_fullsystem.gif)](https://www.youtube.com/watch?v=QxpQtVxcH3Q)
 
-<!--
 **lge-robot-navi/lge-robot-navi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
