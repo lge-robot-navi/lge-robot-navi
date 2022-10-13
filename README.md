@@ -1,5 +1,5 @@
 ## Development of multimodal sensor-based intelligent systems 
-## for outdoor surveillance robots
+## for outdoor surveillance robots ('17 ~ '22)
 
 <p align="center">
     <img src="./organization.jpg" height="63" width="570">
