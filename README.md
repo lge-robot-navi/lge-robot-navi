@@ -1,4 +1,5 @@
-## 실외 무인 경비 로봇을 위한 멀티모달 지능형 정보분석 기술 개발
+## Development of multimodal sensor-based intelligent systems for outdoor surveillance robots
+
 <p align="center">
     <img src="./organization.jpg" height="63" width="570">
 </p>
